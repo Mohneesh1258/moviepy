@@ -1,4 +1,4 @@
-MoviePy
+MoviePy - Edit Videos with Python
 =======
 
 .. image:: https://badge.fury.io/py/moviepy.svg
